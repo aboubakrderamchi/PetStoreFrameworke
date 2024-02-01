@@ -1,0 +1,9 @@
+utilities\BasedDataProviders.class
+utilities\XLUtility.class
+endpoints\UserEndPoint.class
+endpoints\UserEndPointFromPropertiesFile.class
+test\UserTests.class
+endpoints\Routes.class
+payload\User.class
+test\UserTestsFromFileProperties.class
+test\DataDrivenTest.class
